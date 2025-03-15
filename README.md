@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Lê Thị Phương Thảo!
+- 📚 Aspiring Medical Labotory Scientist
+- 💡 Passionate about Data Science, Research and AI in Healthcare 
+- 📍 Based in Vietnam | Medical Labotory Student at UMP
+- 📚 Currently learning Research Methology, and AI Applications in Healthcare
+- 🌟 Focus: Machine Learning, Deep Learning, Computer Vision, IoT, Embedded Systems
 
-<!--
-**Thao2506/Thao2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Tools
+| **Category**         | **Tech Stack**                          |
+|----------------------|-----------------------------------------|
+| **Programming**      | R, Python , C++ ⚡                       |
+| **Tools**            | Linux 🐧,Git, GitHub🔌, RStudio   🐍    |
+| **Data Science**     | Tidyverse🐧, tidymodels, ggplot2       |
+| **Machine Learning** | Scikit-Learn, TensorFlow, PyTorch        |
 
-Here are some ideas to get you started:
+ ## 🔬 Research Interests
+- 🌟 AI applications in diagnostic testing & medical imaging
+- 💡 Machine learning for disease prediction & biomarker discovery
+- 📍 Evidence-based laboratory practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact Me
+- 💼 LinkedIn: [thaovietnam2506](https://www.linkedin.com/in/thaovietnam2005/)
+- ✨ GitHub: [Thao2506](https://github.com/Thao2506)
+
+---
