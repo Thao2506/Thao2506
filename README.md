@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lê Thị Phương Thảo!
+# 👋 Hi, I'm Le Thi Phuong Thao
 - 📚 Aspiring Medical Labotory Scientist
 - 💡 Passionate about Data Science, Research and AI in Healthcare 
 - 📍 Based in Vietnam | Medical Labotory Student at UMP
